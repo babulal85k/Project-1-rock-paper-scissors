@@ -87,6 +87,4 @@ else:
   print(f'Player {wins} Win(s)')
   print(f'Tie(s) {ties}')
   
-# print("Wins:", wins)
-# print("Ties:", ties)
-# print("Losses:", chances - wins - ties)
+# Babu Lal Mandal cap01-001
