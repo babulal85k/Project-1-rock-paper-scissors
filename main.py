@@ -1,6 +1,6 @@
 from random import randint
 
-# Emoji representations for Rock, Paper, and Scissors
+# Emoji  representations for Rock, Paper, and Scissors
 ROCK = "👊"
 PAPER = "✋"
 SCISSORS = "✌️"
