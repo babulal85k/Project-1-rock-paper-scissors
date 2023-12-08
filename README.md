@@ -1,14 +1,22 @@
-# Project-1-rock-paper-scissors
-Build an interactive “**Rock, Paper, Scissors**” game. The computer will think of a random number from 1 to 3(denoting Rock, Paper & Scissors respectively), and ask the user to make a move. The winning rules are:
+# Rock-paper-scissors
 
-- **Rock vs paper-> paper wins**
-- **Rock vs scissor-> Rock wins**
-- **paper vs scissor-> scissor wins.**
+Welcome to my interactive "Rock, Paper, Scissors" game project! This simple yet engaging game allows users to play against the computer in a classic showdown of Rock, Paper, and Scissors.
 
-Take user input in loop 
+How It Works:
 
-until User types “exit”
+The computer randomly selects Rock, Paper, or Scissors.
+The user is prompted to make a move.
+The winner is determined based on the classic rules:
+Rock vs Paper: Paper wins
+Rock vs Scissors: Rock wins
+Paper vs Scissors: Scissors wins
+Key Features:
 
-OR
+The game runs in a loop, allowing users to play multiple rounds until they type "exit" or reach a maximum of 5 chances.
+It's a console-based application, making it easy to run in any terminal.
+Usage:
 
-until 5 chances.
+Clone the repository.
+Run the main game file.
+Follow the on-screen prompts to make your move.
+Feel free to explore, provide feedback, and enjoy some classic Rock, Paper, Scissors fun!
